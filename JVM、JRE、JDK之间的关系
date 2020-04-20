@@ -14,11 +14,11 @@ JDK ：英文名称（Java Development Kit），Java 开发工具包。jdk 是�
 
 留心的同学可能会发现，我们的 jdk 安装成功后，在 C:\Program Files\Java 目录会是这样的（这里，我是装的 jdk1.8 的版本）
 
-
+![](http://img.blog.csdn.net/20180304203124914?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzUzMjY3MTg=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 而 jdk 的子目录下也存在一个 jre。
 
-image
+![](http://img.blog.csdn.net/20180304203133423?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMzUzMjY3MTg=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 这两个不同版本的 jre 相互之间有什么联系吗？
 
